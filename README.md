@@ -51,7 +51,20 @@ Picture below shows that the p value for lot 1 is equal to 1 and lot 2 is equal 
 ![Lot Mean vs Population](https://user-images.githubusercontent.com/93050682/155805882-6eef4ba2-cdf3-42fc-bd6f-623b52ea5100.PNG)
 
 ## Deliverable 4: Study Design: MechaCar vs Competition
+In order to do the comparison we should be addressing the following questions:
 
+* What metric or metrics are you going to test?
+* What is the null hypothesis or alternative hypothesis?
+* What statistical test would you use to test the hypothesis? And why?
+* What data is needed to run the statistical test?
+#### Metrics
+The metrics I want to test are city and highway fuel efficiencies.
+#### Hypothesis
+Null Hypothesis is that all of the cars in the same class have the same fuel efficienies. THe Alternative Hypothesis is that they are not all the same.
+#### Best Test to use
+I would use an ANOVA test to complete this analysis for both types of fuel efficiencies. 
+#### Data Needed
+I would need fuel efficiency data from 100 individual cars to create a sample size of data for each car in the class type.
 
 
 
